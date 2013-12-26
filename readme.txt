@@ -1,3 +1,5 @@
+Project name "Raytrace interop"
+
 Simple OpenGL/CUDA interop + simple raytracer.
 
 This is “as is” and so on.
