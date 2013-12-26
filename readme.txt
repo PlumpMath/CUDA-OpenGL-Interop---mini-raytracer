@@ -10,3 +10,6 @@ Demo of the result uploaded @ http://youtu.be/rb8kWRwIm1Y (beware of the youtube
 *NB* The final result is not absolutely correct. Use at own risks.
 
 RaytraceInterop has no copyright, no copyleft, use, sell and do whatever you want.
+
+Naive implementation without shadow rays, brdfs, compex shading, etc.
+Up to 40-50fps on Macbook Pro, i7, 650m, 512x512 resolution, can be at least 2-3 times faster.
